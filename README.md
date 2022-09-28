@@ -9,7 +9,6 @@
     <li>Análise exploratória;</li>
     <li>Modelagem + algoritmos;</li>
     <li>Interpretação dos resultados;</li>
-    <li>Deploy/Produção;</li>
 </ul>
 <hr>
 
